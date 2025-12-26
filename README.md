@@ -1,50 +1,29 @@
 <h1 align="center">👋 Hi, I'm Yehia Islam</h1>
 <h4 align="center">
-💻 Computer Science & Engineering Enthusiast | Student Leader | Hack Club Founder <br>
-🇪🇬 Based in Alexandria, Egypt
+💻 CS & AI Enthusiast | Hack Club Founder | Sometimes adulting, mostly coding 🤓 <br>
+🇪🇬 Alexandria, Egypt
 </h4>
 
 ---
 
 ### 🌟 About Me
 - 👨‍💻 Aspiring **Software Engineer / AI / Computer Engineer**  
-- 🧠 Advocate for **student-led, project-based learning**  
-- 🌍 Committed to expanding **free tech education for under-18 students**  
+- 🧠 Big fan of **student-led, project-based learning**  
+- 🌍 Trying to make **tech accessible for under-18 students**  
+- 🤯 Occasionally debugging life while debugging Python  
 
 ---
 
-### 🚀 Leadership & Community Impact
-
-**🧑‍🚀 Founder & Club Leader — AAST-IEP Hack Club**  
-*Jan 2024 – Present | Alexandria, Egypt*  
-
-- Founded and lead a **CS & engineering Hack Club** at AAST-IEP  
-- Part of the global **Hack Club nonprofit network** *(501(c)(3) U.S.)*  
-- Built a **community-driven, nonprofit initiative** promoting:  
-  - Programming 💻  
-  - Electronics & engineering 🔧  
-  - Ethical hacking & cybersecurity 🛡️  
-- Mentored **beginners across Alexandria**, enabling members to:  
-  - Learn at their own pace  
-  - Build **real-world projects** (websites, apps, games, hardware)  
-  - Present work publicly each cycle  
-- Led workshops, provided technical guidance, and **lowered barriers to tech education**  
+### 🚀 What I’m Up To
+- 🧑‍🚀 Founder & Club Leader — **AAST-IEP Hack Club**  
+  - Building websites, apps, games, and occasionally rockets 🚀  
+  - Mentoring beginners & helping them survive first “Hello World”  
+- 🧑‍💻 Volunteer Media & IT Specialist — **AASMT–IEPMUN Club**  
+  - Keeping MUN conferences digital and slightly less chaotic  
 
 ---
 
-### 💼 Additional Experience
-
-**🧑‍💻 Media & IT Specialist (Volunteer)**  
-**AASMT–IEPMUN Club** — *Dec 2025 – Present*  
-
-- Web development & digital event management for large-scale MUN conferences  
-- Co-developed **digital, unbiased committee scoring systems**  
-- Provided technical support and mentorship during regional events  
-- Active MUN delegate across multiple events  
-
----
-
-### 🏆 Competitions & Recognition
+### 🏆 Some Fun Achievements
 - 🥇 **First Lego League (FLL)** — Winner (KSA)  
 - 🤖 **Virtual World Robot Olympiad**  
 - 🌍 **Microsoft Imagine Cup Junior**  
@@ -52,9 +31,8 @@
 
 ---
 
-### 🛠️ Technical Skills
-**Languages:** Python • JavaScript • HTML • CSS • Lua  
-**Tools & Platforms:** Arduino • Raspberry Pi • Linux Homelab • Node.js • Git • Notion  
+### 🛠️ Tech I Tinker With
+Python • JavaScript • HTML • CSS • Lua • Arduino • Raspberry Pi • Node.js • Git • Notion  
 
 ---
 
